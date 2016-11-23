@@ -1,0 +1,25 @@
+body {
+    background-color: #ddd;
+}
+div {
+    width : 800px;
+    height : 800px;
+    margin: 10px;
+    float: left;
+    padding: 30px;
+    text-align: center;
+}
+svg {
+    background-color: #ccc;
+}    
+circle {
+    stroke:black;
+    fill: yellow;
+    stroke-width: 1px;
+    opacity: 0.5;
+}
+line {
+    stroke:blue;
+    stroke-width: 1px;
+    stroke-linecap: round;
+}
